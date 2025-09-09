@@ -10272,7 +10272,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_3-GF-3.5_1x03_P3.50mm_Vertical_ThreadedFlange"
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_3-GF-3.5_1x03_P3.50mm_Vertical_ThreadedFlange_MountHole"
 			(at 281.94 130.81 0)
 			(effects
 				(font
